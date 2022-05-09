@@ -16,6 +16,6 @@ Google News 100bil pretrained word similarities:
 
 
 Google News 100bil pretrained and additional fine tuning on selected speeches from Zelensky word similarities:
-![newplot](https://user-images.githubusercontent.com/81179144/166687454-282c948b-3540-4c7e-b222-b4a804c7cca2.png) 
-![newplot](https://user-images.githubusercontent.com/81179144/166687583-6713bd3f-315f-4680-938a-339e677de0e6.png)
 
+![newplot](https://user-images.githubusercontent.com/81179144/167444017-8c12aab7-3646-4112-a81a-2b45dce98057.png)
+![newplot](https://user-images.githubusercontent.com/81179144/167444247-efc8c8a4-5d34-4ace-bd0b-a566030598de.png)
